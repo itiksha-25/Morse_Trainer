@@ -6,12 +6,13 @@ def main():
 
     while True:
         print()
-        print(" 📚 === Morse Code Learning App === 1📚")
+        print(" 📚 === Morse Code Learning App ===📚")
 
-        print(" 1️⃣  Text to Morse")
-        print(" 2️⃣  Morse to Text")
-        print(" 3️⃣  Quiz on Morse Code")
-        print(" 4️⃣  Exit")
+        print(" 1️⃣   Text to Morse")
+
+        print("   2.Morse to Text")
+        print(" 3Quiz on Morse Code")
+        print("4.  Exit")
         choice = input("✔️   choose option ✔️    ")
 
 
